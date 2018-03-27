@@ -1,0 +1,57 @@
+For two datasets:
+    - Why are they interesting?
+    Part 1:
+        - EM
+        - K-means
+            + How did I choose K?
+        - For each method:
+            + Describe the kind of clusters
+            + Do the clusters make sense?
+            + Do the clusters line up with the labels?
+                * Why or why not?
+            + Compare/contrast the algorithms
+            + What sort of changes could be made to the algorithms?
+            + How much performance was due to problems chosen?
+    Part 2:
+        - PCA
+            + Distribution of eigenvalues
+            + How well is the data reconstructed?
+        - ICA
+            + How kurtotic are the distributions?
+            + Do the projection axes capture anything meaningful?
+        - Randomized Projection
+            + Assuming I do dimensionality reduction, how well is the data reconstructed?
+            + How much variation when re-ran several times?
+        - Something else
+    Part 3:
+        - EM for Part 2
+        - K-means for Part 2
+            + How did I choose K?
+        - Same clusters as Part 1?
+            + Why/why not?
+
+For dataset from Assignment 1:
+    Part 4:
+        - PCA + NN
+            + Distribution of eigenvalues
+            + How well is the data reconstructed?
+        - ICA + NN
+            + How kurtotic are the distributions?
+            + Do the projection axes capture anything meaningful?
+        - Randomized Projection + NN
+            + Assuming I do dimensionality reduction, how well is the data reconstructed?
+            + How much variation when re-ran several times?
+        - Something else + NN
+    Part 5:
+        - EM + NN
+        - K-means + NN
+            + How did I choose K?
+        - For each method:
+            + Describe the kind of clusters
+            + Do the clusters make sense?
+            + Do the clusters line up with the labels?
+                * Why or why not?
+            + Compare/contrast the algorithms
+            + What sort of changes could be made to the algorithms?
+            + How much performance was due to problems chosen?
+    Any differences in NN performance compared to first assignment? Speed? Other?
