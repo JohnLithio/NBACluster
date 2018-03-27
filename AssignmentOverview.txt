@@ -55,3 +55,18 @@ For dataset from Assignment 1:
             + What sort of changes could be made to the algorithms?
             + How much performance was due to problems chosen?
     Any differences in NN performance compared to first assignment? Speed? Other?
+
+Graphs/Visuals:
+    - K-means
+        + Elbow
+        + Distribution of positions in each group
+        + Average stats for each group
+        + Players closest to each centroid
+    - EM
+        + Distribution of positions in each group
+        + Average stats for each group
+        + Players closest to each centroid
+        + Overlap with K-means groups
+    - PCA
+        + Distribution of eigenvalues
+        + Variance explained by PC's
