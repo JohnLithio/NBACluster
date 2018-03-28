@@ -14,6 +14,7 @@ For two datasets:
             + How much performance was due to problems chosen?
     Part 2:
         - PCA
+			+ Weight attributes so that offense is equal to defense
             + Distribution of eigenvalues
             + How well is the data reconstructed?
         - ICA
