@@ -2,8 +2,11 @@ For two datasets:
     - Why are they interesting?
     Part 1:
         - EM
+            + How to choose number of components
+                * AIC/BIC
         - K-means
             + How did I choose K?
+                * Elbow
         - For each method:
             + Describe the kind of clusters
             + Do the clusters make sense?
