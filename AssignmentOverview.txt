@@ -70,4 +70,3 @@ Graphs/Visuals:
         + Overlap with K-means groups
     - PCA
         + Distribution of eigenvalues
-        + Variance explained by PC's
